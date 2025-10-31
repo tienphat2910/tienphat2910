@@ -34,8 +34,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/tien.phat29" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="48" alt="Facebook" />
-  </a>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" width="48" alt="Facebook"/>
+</a>
+
   <a href="mailto:tienphat29102003@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
   </a>
