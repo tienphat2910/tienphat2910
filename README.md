@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Tien%20Phat%20🚀&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20from%20Ho%20Chi%20Minh%20City&descAlign=50&descAlignY=65" />
 </p>
-
+<!-- ❄️ Snowfall Effect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/snowfall.gif" alt="Snowfall animation" width="100%">
+</p>
 <!-- 👋 Giới thiệu -->
 <h1 align="center">Hi 👋, I'm Phat</h1>
 <p align="center">
@@ -59,21 +62,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tienphat2910&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=tienphat2910&theme=radical&hide_border=false" />
 </p>
+
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tienphat2910&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### 🎵 Fun Section  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dwnkkrb2n7ncbk5qjvn3p22f3m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
 </p>
 
 ---
