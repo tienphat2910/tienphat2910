@@ -6,7 +6,8 @@
 <!-- 👋 Giới thiệu -->
 <h1 align="center">Hi 👋, I'm Phat</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=550&lines=Frontend+Developer+based+in+Ho+Chi+Minh+City%2C+Vietnam;Passionate+about+React%2C+Next.js+%26+UI%2FUX;Always+learning+and+building+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=550&lines=A+Frontend+Developer+based+in+Ho+Chi+Minh+City%2C+Vietnam;Passionate+about+React%2C+Next.js+%26+UI%2FUX;Always+learning+and+building+cool+stuff" alt="Typing SVG" />
+
 </p>
 
 ---
